@@ -1,0 +1,6 @@
+name = "packages"
+uuid = "9abfe896-4e39-48c2-9389-b23b1dde62ae"
+repo = "https://github.com/keitokurata/packages.git"
+
+[packages]
+9abfe896-4e39-48c2-9389-b23b1dde62ae = { name = "mnist", path = "mnist"}
