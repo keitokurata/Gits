@@ -1,4 +1,4 @@
 name = "mnist"
-uuid = "9abfe896-4e39-48c2-9389-b23b1dde62ae"
+uuid = "e8c05ba4723c9c7b719fbe0a991bf17e746e7e25"
 authors = ["keitokurata <keito_kurata@icloud.com>"]
 version = "0.1.0"

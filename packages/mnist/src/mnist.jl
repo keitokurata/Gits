@@ -1,4 +1,4 @@
-module packages
+module mnist
 
 greet() = print("Hello World!")
 

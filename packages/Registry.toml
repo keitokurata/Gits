@@ -1,6 +1,6 @@
 name = "packages"
-uuid = "9abfe896-4e39-48c2-9389-b23b1dde62ae"
+uuid = "943a3ecb-01ea-4a1d-a9d5-3dd833ec53b2"
 repo = "https://github.com/keitokurata/packages.git"
 
 [packages]
-9abfe896-4e39-48c2-9389-b23b1dde62ae = { name = "mnist", path = "mnist"}
+e8c05ba4723c9c7b719fbe0a991bf17e746e7e25 = { name = "mnist", path = "mnist/src"}
